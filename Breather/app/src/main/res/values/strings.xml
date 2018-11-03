@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Breather</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Pj_info">\t\tBreather  - is a noncommercial project of students team &quot;Quantum_dev&quot;
+        from  National University &quot;Lviv Politehnic&quot;. We are focused on a very common and dangerous
+        problem - air pollution. So the main aim of our project is to allow users to control the level  of
+        air pollution in theirs homes. Due to our sensors you can keep track of the temperature , humidity and
+        gas level wherever you are at any time. Our website and mobile app will help users to receive information
+        in easy and clear way. Be aware of any air changes  in their homes. Be safe.</string>
+    <string name="Breather">What is the &quot;Breather&quot;?</string>
+
+    <string name="mq9_link">
+        <a href="http://wiki.seeedstudio.com/Grove-Gas_Sensor-MQ9/">DETAILS</a>
+    </string>
+    <string name="temp_link">
+        <a href="http://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/">DETAILS</a>
+    </string>
+    <string name="multi_link">
+        <a href="http://wiki.seeedstudio.com/Grove-Multichannel_Gas_Sensor/">DETAILS</a>
+    </string>
+</resources>
